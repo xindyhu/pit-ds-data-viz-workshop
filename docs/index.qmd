@@ -24,13 +24,13 @@ execute:
 
 <h3> Dr. Xindi (Cindy) Hu, Assistant Professor at GWSPH</h3>
 
-<h3> 03-21-2025</h3>
+<h3> 05-21-2025</h3>
 <br>
 
-<h3> `r fontawesome::fa("github", "black")` &nbsp; [github.com/xindyhu/reach-data-viz-workshop](https://github.com/xindyhu/reach-data-viz-workshop.git)
+<h3> `r fontawesome::fa("github", "black")` &nbsp; [github.com/xindyhu/pit-ds-data-viz-workshop](https://github.com/xindyhu/pit-ds-data-viz-workshop.git)
 
-![](img/gw_primary_2c_0.png){.absolute top=680 left=1400 width="300"}
-![](img/reach-logo.jpg){.absolute top=680 left=1000 width="300"}
+![](img/gw_primary_2c_0.png){.absolute top=600 left=1200 width="300"}
+![](img/PIT-UN-logo.webp){.absolute top=680 left=1550 width="400"}
 
 
 ## Meet Your Instructor 👩
@@ -53,12 +53,6 @@ execute:
 
 :::
 :::
-
-## Meet your classmates 👥
-
-Join at menti.com using code 87160620
-
-![](img/mentimeter_qr_code.png){style="width: 70%; display: block; margin: auto;"}
 
 
 ## Acknowledgements
@@ -1013,7 +1007,7 @@ While functions and reactives help accomplish similar goals in terms of not-repe
 
 * However reactive expressions are lazy, they only get executed when their input changes.
 
-## Switch to RStudio!
+## You have learned R Shiny!
 ![](img/congratulations.webp)
 
 # Outline for today
@@ -1063,9 +1057,7 @@ On the right, there should be four plotly graphs. First one is the number of bea
 | **`airquality`** 🌍 | New York air quality data (Ozone, Temp, Wind) |
 | **`ToothGrowth`** 🦷 | Vitamin C & tooth growth in guinea pigs |
 
-🛠️ **Try it out yourself!**
-
-💬 **What did you learn? What worked well? Any surprises?**
+**Try it yourself in the lab session this afternoon**
 
 # Outline for today
 1. How humans see data
@@ -1094,42 +1086,8 @@ deployApp()
 ## How much time do you have?
 - **10 min**: Print out this [Shiny for R cheatsheet](https://shiny.posit.co/r/articles/start/cheatsheet/)
 - **2.5 hrs**: Follow this [Posit tutorial](https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/)
-- **1 week**: If you are an EOH student, participate in the `2025 EOH Data Visualization Competition`!
-- **6 weeks**: Sign-up for `PUBH6199 Visualizing Data with R` this summer!
 - **Lifetime**: Check out resources like the `Shiny Gallery`, `TidyTuesday`, and `Mastering Shiny` book
 
-## 2025 EOH Data Visualization Competition
-
-:::{.columns}
-
-:::{.column width="60%"}
-* Must be a current EOH student to participate
-* Visualizations must be submitted via a publicly accessible URL
-* Submissions will be evaluated based on:
-  - **Clarity and insight**
-  - **Creativity and innovation**
-  - **Design and Aesthetics**
-  - **Usability and Accessibility**
-* March 21–March 28, 2025
-* Get inspiration
-  - [Information is Beautiful](https://informationisbeautiful.net/); [TidyTuesday](https://github.com/rfordatascience/tidytuesday); [R shiny gallery](https://shiny.posit.co/r/gallery/)
-* Find datasets
-  - [Kaggle](https://www.kaggle.com/datasets); [US Government Open Data](https://data.gov/); [US Census Data](https://data.census.gov/); [Tableau: Free Public Datasets](https://www.tableau.com/learn/articles/free-public-data-sets)
-
-:::
-
-:::{.column width="40%"}
-
-![](img/eoh-data-viz-comp.png){style="height: 90%; display: block; margin: auto;"}
-:::
-:::
-
-## REACH Climate and Health Research Fellowship
-
-![](img/reach_fellow_flyer.png){style="display: block; margin: auto;"}
-
-## PUBH6199 Visualizing Data with R
-![](img/pubh6199-flyer.png){style="width: 100%; display: block; margin: auto;"}
 
 ## Further resources
 * **`Books`**
